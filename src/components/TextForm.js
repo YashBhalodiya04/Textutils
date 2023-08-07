@@ -75,7 +75,7 @@ export default function TextForm(props) {
                 onClick={clickedlobutton}
                 disabled ={text.length === 0}
               >
-                Convert To Uppercase
+                Convert To Lowercase
               </button>
               <button
                 className="btn btn-primary my-3 mx-3"
